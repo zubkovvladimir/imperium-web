@@ -1,0 +1,33 @@
+// Raleway
+
+@include font-face(
+  "Raleway",
+  "./fonts/raleway-v28-latin_cyrillic-regular",
+  400,
+  "normal"
+);
+
+@include font-face(
+  "Raleway",
+  "./fonts/raleway-v28-latin_cyrillic-500",
+  500,
+  "normal"
+);
+
+@include font-face(
+  "Raleway",
+  "./fonts/raleway-v28-latin_cyrillic-600",
+  600,
+  "normal"
+);
+
+@include font-face(
+  "Raleway",
+  "./fonts/raleway-v28-latin_cyrillic-700",
+  700,
+  "normal"
+);
+
+// Inter
+
+@include font-face("Inter", "./fonts/inter-v12-cyrillic-500", 700, "normal");
